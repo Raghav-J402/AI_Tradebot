@@ -4,6 +4,10 @@ This repository contains files pertaining to a news sentiment analysis-based AI 
 
 ---
 
+![AI Tradebot](C:\Users\Raghav Jangid\Pictures\Screenshots)
+
+---
+
 ## Steps
 
 1. **Create a virtual environment and install all dependencies:**
@@ -19,3 +23,4 @@ This repository contains files pertaining to a news sentiment analysis-based AI 
     ```
 
 ---
+
