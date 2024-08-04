@@ -5,7 +5,7 @@ from lumibot.traders import Trader
 from datetime import datetime,timedelta
 from alpaca_trade_api.rest import REST  
 from timedelta import Timedelta
-from finbert_utils import estimate_sentiment
+from NLP_FinbertModel import estimate_sentiment
 
 API_KEY = "PKQKTABB57SANLZU5EKH"
 API_SECRET = "j18O27qWidccdK4eaQmKWemyKRhALStDYjTEUOZR"
