@@ -4,7 +4,7 @@ This repository contains files pertaining to a news sentiment analysis-based AI 
 
 ---
 
-![AI Tradebot](C:\Users\Raghav Jangid\Pictures\Screenshots)
+![AI Tradebot](SPY_Output.png)
 
 ---
 
