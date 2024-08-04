@@ -4,8 +4,9 @@ This repository contains files pertaining to a news sentiment analysis-based AI 
 
 ---
 
-![AI Tradebot](SPY_Output.png)
-
+<p align="center">
+  <img src="SPY_Output.png" alt="AI Tradebot">
+</p>
 ---
 
 ## Steps
